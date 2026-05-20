@@ -6,7 +6,7 @@ This repository contains analysis scripts for the manuscript "Genomic structural
 
 **Title:** Genomic structural equation modeling of 12 cancers identifies a latent pan-cancer susceptibility factor and shared determinants of carcinogenesis
 
-**Authors:** Qian Xu, Lu Niu, Zian Cao, Jiwen Geng, Huazhen Yang, Yu Zeng, Yanan Zhang, Chen Suo, Gang Yuan, Huan Song, Can Hou
+**Authors:** Qian Xu, Lu Niu, Zian Cao, Jiwen Geng, Huazhen Yang, Yu Zeng, Yanan Zhang, Qian Li, Chen Suo, Gang Yuan, Huan Song, Can Hou
 
 ## Folder Overview
 
