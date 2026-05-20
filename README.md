@@ -24,3 +24,6 @@ This repository contains analysis scripts for the manuscript "Genomic structural
 ## Citation Information
 
 To be completed after publication.
+
+## Contact Information
+Can Hou: houcan@wchscu.cn
