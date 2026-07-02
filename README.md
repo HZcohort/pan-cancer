@@ -23,7 +23,7 @@ This repository contains analysis scripts for the manuscript "Genomic structural
 
 ## Citation Information
 
-To be completed after publication.
+Xu Q, Niu L, Cao Z et al. **Genomic structural equation modelling of 12 cancers identifies a latent pan-cancer susceptibility factor and shared determinants of carcinogenesis** eBioMedicine, 2026; 129 (https://pubmed.ncbi.nlm.nih.gov/42361404/)
 
 ## Contact Information
 Can Hou: houcan@wchscu.cn
