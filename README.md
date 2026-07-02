@@ -1,10 +1,10 @@
 # Pan-cancer Genetics Analysis Code
 
-This repository contains analysis scripts for the manuscript "Genomic structural equation modeling of 12 cancers identifies a latent pan-cancer susceptibility factor and shared determinants of carcinogenesis". Each subfolder corresponds to one analysis component and includes a section-specific `README.md` describing the expected inputs, script order, and outputs.
+This repository contains analysis scripts for the manuscript "Genomic structural equation modelling of 12 cancers identifies a latent pan-cancer susceptibility factor and shared determinants of carcinogenesis". Each subfolder corresponds to one analysis component and includes a section-specific `README.md` describing the expected inputs, script order, and outputs.
 
 ## Manuscript Information
 
-**Title:** Genomic structural equation modeling of 12 cancers identifies a latent pan-cancer susceptibility factor and shared determinants of carcinogenesis
+**Title:** Genomic structural equation modelling of 12 cancers identifies a latent pan-cancer susceptibility factor and shared determinants of carcinogenesis
 
 **Authors:** Qian Xu, Lu Niu, Zian Cao, Jiwen Geng, Huazhen Yang, Yu Zeng, Yanan Zhang, Qian Li, Chen Suo, Gang Yuan, Huan Song, Can Hou
 
